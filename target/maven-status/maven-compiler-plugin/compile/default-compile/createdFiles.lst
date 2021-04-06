@@ -1,0 +1,8 @@
+com\justin\cruddemos\model\Customer.class
+com\justin\cruddemos\repository\CustomerRepository.class
+com\justin\cruddemos\dto\CustomerDTO.class
+com\justin\cruddemos\service\impl\CustomerServiceImpl.class
+com\justin\cruddemos\CrudDemoApplication.class
+com\justin\cruddemos\model\RestMessage.class
+com\justin\cruddemos\restController\CustomerController.class
+com\justin\cruddemos\service\CustomerService.class
